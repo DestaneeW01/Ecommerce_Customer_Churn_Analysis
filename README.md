@@ -5,7 +5,7 @@ This project analyzes customer behavior in an e-commerce dataset to identify key
 The analysis follows an end-to-end business intelligence workflow using Python, SQL, and Power BI, culminating in an interactive dashboard for stakeholder decision-making.
 
 ## Tools Used
-Python (Pandas, Matplotlib, Seaborn): Data cleaning, EDA, and behavioral analysis
+Python (Pandas, Matplotlib, Seaborn): Data cleaning, EDA, and behavioral analysis     
 SQL (SQL Server Management Studio): Data modeling, aggregation, and segmentation
 Power BI: Interactive dashboard and data visualization
 
