@@ -6,7 +6,7 @@ The analysis follows an end-to-end business intelligence workflow using Python, 
 
 ## Tools Used
 Python (Pandas, Matplotlib, Seaborn): Data cleaning, EDA, and behavioral analysis     
-SQL (SQL Server Management Studio): Data modeling, aggregation, and segmentation
+SQL (SQL Server Management Studio): Data modeling, aggregation, and segmentation              
 Power BI: Interactive dashboard and data visualization
 
 ## Key Findings
