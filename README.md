@@ -10,7 +10,7 @@ SQL (SQL Server Management Studio): Data modeling, aggregation, and segmentation
 Power BI: Interactive dashboard and data visualization
 
 ## Key Findings
-Recency is the strongest predictor of churn
+- Recency is the strongest predictor of churn
 - Customers inactive for longer periods are significantly more likely to churn                           
 - Customer activity drives retention                           
 - Low login frequency is strongly associated with higher churn rates                                 
