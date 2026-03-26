@@ -10,16 +10,16 @@ SQL (SQL Server Management Studio): Data modeling, aggregation, and segmentation
 Power BI: Interactive dashboard and data visualization
 
 ## Key Findings
-Recency is the strongest predictor of churn.
-- Customers inactive for longer periods are significantly more likely to churn.                           
-Customer activity drives retention.                           
-- Low login frequency is strongly associated with higher churn rates.                                 
-Engagement increases customer value.                                
-- Highly engaged users generate higher lifetime value.                                
-Cart abandonment indicates conversion friction.                                    
-- Higher abandonment rates correlate with fewer purchases.                           
-Lifetime value alone does not predict churn.                           
-- Behavioral metrics are more reliable indicators than monetary value.                                        
+Recency is the strongest predictor of churn
+- Customers inactive for longer periods are significantly more likely to churn                           
+- Customer activity drives retention                           
+- Low login frequency is strongly associated with higher churn rates                                 
+- Engagement increases customer value                                
+- Highly engaged users generate higher lifetime value                                
+- Cart abandonment indicates conversion friction                                    
+- Higher abandonment rates correlate with fewer purchases                           
+- Lifetime value alone does not predict churn                           
+- Behavioral metrics are more reliable indicators than monetary value                                       
 
 ## Project Workflow
 1. Data cleaning, exploratory analysis, and behavioral segmentation in Python  
