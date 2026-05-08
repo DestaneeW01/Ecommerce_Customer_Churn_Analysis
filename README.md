@@ -33,4 +33,5 @@ Power BI: Interactive dashboard and data visualization
 - Focus on increasing customer engagement to drive long-term value  
 
 ## Dashboard
-<img width="1920" height="1019" alt="Power BI Desktop 3_25_2026 3_06_14 PM" src="https://github.com/user-attachments/assets/846c2126-34ba-46f4-9192-2623839a6c69" />
+<img width="1257" height="706" alt="image" src="https://github.com/user-attachments/assets/8f9e730c-5fec-4308-8c25-28bf5ef964d6" />
+
