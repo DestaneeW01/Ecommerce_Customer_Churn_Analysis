@@ -105,6 +105,3 @@ SELECT
 FROM dbo.CustomerData
 GROUP BY Wishlist_Items_Missing_Flag;
 
-
-SELECT * 
-FROM dbo.CustomerData;
